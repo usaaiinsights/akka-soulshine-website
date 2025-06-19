@@ -9,7 +9,7 @@ export default defineConfig(({ mode }) => ({
     host: "::",
     port: 8080,
   },
-  base: "./", // ✅ This line fixes the white screen!
+  base: "/akka-soulshine-website/", // ✅ Required for GitHub Pages
   plugins: [
     react(),
     mode === "development" && componentTagger(),
