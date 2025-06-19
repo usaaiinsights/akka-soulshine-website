@@ -1,4 +1,3 @@
-
 import type { Config } from "tailwindcss";
 
 export default {
@@ -75,6 +74,11 @@ export default {
 					800: '#cc4924',
 					900: '#b32f0e'
 				}
+			},
+			fontFamily: {
+				'playfair': ['Playfair Display', 'serif'],
+				'poppins': ['Poppins', 'sans-serif'],
+				'dancing': ['Dancing Script', 'cursive'],
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
