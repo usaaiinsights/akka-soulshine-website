@@ -38,9 +38,16 @@ const HiddenSurprise = () => {
                 <p>🎓 And About Your Dreams...
 I know the path you’ve chosen isn’t easy. The long nights, the pressure, the self-doubt , it all gets heavy sometimes. But you are capable of achieving everything you dream of. You have the strength, the brain, and the heart to make it real. So please don’t overthink. You don’t need to have it all figured out. Just take it one step at a time - and know that I’m always here, cheering you on silently with every heartbeat. You were born to shine, not to stress. 🌈💪 And your dreams? They're already waiting for you. Go grab them, Akka 🌟
 
- ❤️ From Me to You
 
-, Once More… Even if life tries to dim your light, never forget how brightly you’ve already shined in mine. This website is not just a surprise! it’s a reminder: You are loved. You are special. You are magic. If no one says it out loud on tough days, read this again. Because your thambi believes in you. Always. 💖</p>
+❤️ From Me to You, Once More…
+
+Even if life tries to dim your light, never forget how brightly you’ve already shined in mine.
+This website is not just a surprise! it’s a reminder:
+
+You are loved. You are special. You are magic.
+
+If no one says it out loud on tough days, read this again.
+Because your thambi believes in you. Always. 💖</p>
                 
                 <p className="text-purple-600 font-medium">
                   You are a masterpiece, Darshini Akka. Never forget that. ✨
